@@ -1,0 +1,8 @@
+.DS_Store
+/.build/build.db
+/.build/checkouts
+/.build/debug.yml
+/.build/repositories
+/.build/workspace-state.json
+/Packages
+/*.xcodeproj
